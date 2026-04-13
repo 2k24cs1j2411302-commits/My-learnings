@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mahak Gupta",
+  "main": "src/math.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "random-words": "^2.0.1"
+  }
+}
