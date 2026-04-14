@@ -4,13 +4,8 @@
   "description": "",
   "license": "ISC",
   "author": "Mahak Gupta",
-  "main": "src/math.js",
-  "type": "module",
+  "main": "math.js",
   "scripts": {
-    "start": "node src/script.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "random-words": "^2.0.1"
   }
 }
